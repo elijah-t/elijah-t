@@ -1,4 +1,14 @@
-### Hi there 👋
+### Welcome to my profile! 👋
+
+My name is Elijah Tungul (he/him), and I am a 20-year old computer science student at Ryerson University.
+
+### What am I working on right now? 🛠️
+
+Currently I am working on Game Bot, a Discord bot that allows you to play games with your friends.
+
+### How can you reach me? ☎️
+
+[LinkedIn](https://www.linkedin.com/in/elijah-tungul/)
 
 <!--
 **elijah-t/elijah-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
