@@ -1,6 +1,6 @@
 ### Welcome to my profile! 👋
 
-My name is Elijah Tungul (he/him), and I am a 20-year old computer science student at Ryerson University.
+My name is Elijah Tungul (he/him), and I am a 21 year old computer science student at Ryerson University.
 
 ### What am I working on right now? 🛠️
 
