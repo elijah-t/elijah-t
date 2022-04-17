@@ -10,7 +10,7 @@ I'm currently in the process of learning React! Follow my progress [here](https:
 
 ### How can you reach me? ☎️
 
-[LinkedIn](https://www.linkedin.com/in/elijah-tungul/)
+Here's my [LinkedIn](https://www.linkedin.com/in/elijah-tungul/), you can shoot me a message through here!
 
 <!--
 **elijah-t/elijah-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
