@@ -6,7 +6,7 @@ My name is Elijah Tungul (he/him), and I am a 21 year old computer science stude
 
 Currently I am working on Game Bot, a Discord bot that allows you to play games with your friends.
 
-I'm currently in the process of learning React! Follow my progress (here)[https://github.com/elijah-t/fcc-react-course].
+I'm currently in the process of learning React! Follow my progress [here](https://github.com/elijah-t/fcc-react-course).
 
 ### How can you reach me? ☎️
 
